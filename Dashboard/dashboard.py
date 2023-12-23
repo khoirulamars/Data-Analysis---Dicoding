@@ -56,7 +56,7 @@ def plot_growth_order(data):
     st.pyplot(fig)
 
 # Read data
-df_clean = pd.read_csv('D:\dicoding_dataanalysis\Dashboard\data.csv')
+df_clean = pd.read_csv('./dashboard/data.csv')
 
 # 10 produk apa yang paling banyak dibeli?
 st.title("TOP 10 Produk yang Paling Banyak Dibeli")
