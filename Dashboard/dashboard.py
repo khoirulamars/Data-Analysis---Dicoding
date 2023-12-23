@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.sidebar:
-    st.image("https://www.bing.com/images/blob?bcid=r3Qdj4DiK3cGPnKpInsJR1EtlE7s.....0U")
+    st.image("https://static1.squarespace.com/static/5e8c90a721523d0d3bd32c89/t/6103f552b1f44b4f19d475e9/1627649362478/OLIST+LOGO.jpeg")
     st.title("PROJEK DATA ANALISIS")
 
 def plot_top_categories(data):
